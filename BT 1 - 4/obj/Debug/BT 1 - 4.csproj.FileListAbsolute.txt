@@ -1,0 +1,7 @@
+C:\Users\fptshop\source\repos\BT 1 - 4\bin\Debug\BT 1 - 4.exe.config
+C:\Users\fptshop\source\repos\BT 1 - 4\bin\Debug\BT 1 - 4.exe
+C:\Users\fptshop\source\repos\BT 1 - 4\bin\Debug\BT 1 - 4.pdb
+C:\Users\fptshop\source\repos\BT 1 - 4\obj\Debug\BT 1 - 4.csproj.AssemblyReference.cache
+C:\Users\fptshop\source\repos\BT 1 - 4\obj\Debug\BT 1 - 4.csproj.CoreCompileInputs.cache
+C:\Users\fptshop\source\repos\BT 1 - 4\obj\Debug\BT 1 - 4.exe
+C:\Users\fptshop\source\repos\BT 1 - 4\obj\Debug\BT 1 - 4.pdb
