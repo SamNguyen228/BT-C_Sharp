@@ -1,0 +1,7 @@
+C:\Users\fptshop\source\repos\StringC_sharp\bin\Debug\StringC_sharp.exe.config
+C:\Users\fptshop\source\repos\StringC_sharp\bin\Debug\StringC_sharp.exe
+C:\Users\fptshop\source\repos\StringC_sharp\bin\Debug\StringC_sharp.pdb
+C:\Users\fptshop\source\repos\StringC_sharp\obj\Debug\StringC_sharp.csproj.AssemblyReference.cache
+C:\Users\fptshop\source\repos\StringC_sharp\obj\Debug\StringC_sharp.csproj.CoreCompileInputs.cache
+C:\Users\fptshop\source\repos\StringC_sharp\obj\Debug\StringC_sharp.exe
+C:\Users\fptshop\source\repos\StringC_sharp\obj\Debug\StringC_sharp.pdb
