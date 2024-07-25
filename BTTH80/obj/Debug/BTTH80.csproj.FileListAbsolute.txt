@@ -1,0 +1,7 @@
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\bin\Debug\BTTH80.exe.config
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\bin\Debug\BTTH80.exe
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\bin\Debug\BTTH80.pdb
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\obj\Debug\BTTH80.csproj.AssemblyReference.cache
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\obj\Debug\BTTH80.csproj.CoreCompileInputs.cache
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\obj\Debug\BTTH80.exe
+C:\Users\fptshop\Desktop\CMCU - HK3\C_Sharp\BTTH80\obj\Debug\BTTH80.pdb
